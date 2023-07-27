@@ -20,8 +20,8 @@
 
 ## Simple running
 ```shell
-$ git clone .......
-$ cd .......
+$ git clone https://github.com/isnoor/lineblocs-dev.git
+$ cd lineblocs-dev
 $ cp .env.example
 $ git clone git@github.com:Lineblocs/site.git
 $ cd site/app/
@@ -41,8 +41,8 @@ $ docker compose --profile enable_mysql --profile enable_proxy up -d
 ### Clone docker compose project
 Clone docker compose and move to directory.
 ```shell
-$ git clone .......
-$ cd .......
+$ git clone https://github.com/isnoor/lineblocs-dev.git
+$ cd lineblocs-dev
 ```
 
 ### Make .env file and confige
